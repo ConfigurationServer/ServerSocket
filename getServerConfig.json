@@ -2,7 +2,7 @@
     "status": true,
     "message": "",
     "data": {
-        "serverVersion": 69,
+        "serverVersion": 70,
         "intervalAdTime": 60,
         "blueWhaleF": "p/BTBp24g0yg4JFQUMk94w==",
         "blueWhaleA": "SMPhsKO41SmPAK5Ewqs1SA==",
@@ -242,43 +242,35 @@
                 "server": [
                   
 					{
-						"host": "Jp3Ui0tL0MhVidVlkzWFjw==",
-						"port": "b7usKoX2J/ElZ7CvBhfX6A==",
+						"host": "BpfQ2Lq8MtR998v2bxA4IA==",
+						"port": "gUyP4cV18Dcw5KT3HsaYzg==",
 						"country": "e+SHWnnrHZSdDvWoD6Iv/A==",
 						"zhCity": "WEeJ2mXFfkwjacmevfWq1w==",
 						"enCity": "fbXf+6AhCvrxCkWCl/tUSQ==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "FQdm3cm9zTLP8tongoFp1A==",
-						"port": "aTFFRpYjCHggMaM2vqTpUg==",
+						"host": "449ssVT7yaOzsasKHOQzOg==",
+						"port": "vHVQXhpCNv0LRlmVHchTUQ==",
 						"country": "++zr9xkykY2KwVtVAEQkyA==",
 						"zhCity": "8WmnkBM0V36P3e1uUFK08g==",
 						"enCity": "lH4ylwG2QMtLewpBgu4l5g==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "zM/sOGdHCNn9pcwFRDj7wQ==",
-						"port": "Ka28lY0hXZvBmHOj2//kTQ==",
+						"host": "Jp3Ui0tL0MhVidVlkzWFjw==",
+						"port": "b7usKoX2J/ElZ7CvBhfX6A==",
 						"country": "A061yuyoZxsAnx2LEV0xQg==",
 						"zhCity": "PjkZH40ZatSZ3KLot1SmVw==",
 						"enCity": "Z6h4/oBn3SI86gN0CsTprQ==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
-						"host": "WyOsTErRZYIiUbZbZGuHcw==",
-						"port": "5B1SmOeSgq2epf93t2+Bsg==",
+						"host": "cVW0gxvlXS27c9kAwSCxog==",
+						"port": "LCuTFbxw8IBl9S2+FoaSBA==",
 						"country": "wqB9FwaALZu5qTnAvjY1Eg==",
 						"zhCity": "GSHkfpWQOZ2dpAa7ol8MJg==",
 						"enCity": "/fJkTeCed/ZtIRdjkkrZXw==",
-						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
-					},
-					{
-						"host": "V2XGE1IZmm2Mngmkvgavuw==",
-						"port": "zTX8/A5XqHZna/dI218jtg==",
-						"country": "h+KzJEXwcdPn5LwvgsTL5A==",
-						"zhCity": "BRyGqHf61UvPYB5nvaH58g==",
-						"enCity": "aVfmVTvNEo4pf4z/x/90ww==",
 						"method": "Vb7d3KAw8m/SSKrukJTdlw=="
 					},
 					{
